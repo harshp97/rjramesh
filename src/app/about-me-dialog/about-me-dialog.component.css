@@ -1,0 +1,14 @@
+h2{
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+p{
+    font-size: larger;
+}
+
+table {
+    width: 100%;
+}
+mat-grid-tile {
+  }
